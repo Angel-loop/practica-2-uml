@@ -1,0 +1,5 @@
+@startuml personas
+ClassPersona  ^-- ClassProfesor
+ClassPersona  ^-- ClassEstudiante
+ClassPersona  ^-- ClassTrabajador
+@endluml

@@ -1,0 +1,4 @@
+@startuml dd
+ClassDiscoDuro  *-- ClassPista
+ClassPista *-- ClassSector
+@endluml

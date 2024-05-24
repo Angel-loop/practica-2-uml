@@ -1,0 +1,4 @@
+@startuml baseball
+ClassEquipoBB --* ClassJugadores
+ClassEstadioBB  --o ClassEquipo
+@endluml

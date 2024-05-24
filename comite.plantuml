@@ -1,0 +1,4 @@
+@startuml comite
+ClassComite "1" --*  "2..many" ClassPersona
+ClassPersona --o "0..1" ClassComite
+@endluml

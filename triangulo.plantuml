@@ -1,0 +1,4 @@
+@startuml triangulo
+ClassPoligono o-- ClassTriangulo
+ClassTriangulo "1" *-- "3" ClassLado
+@endluml

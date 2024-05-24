@@ -1,0 +1,4 @@
+@startuml teclado
+
+ClassTeclado "1" *-- "105" ClassTecla
+@enduml
